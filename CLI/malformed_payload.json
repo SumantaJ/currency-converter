@@ -1,0 +1,4 @@
+[{ "item": "B", "price": 9.95, "currency": "USD" },
+{ "item": "A", "price": 99.95, "currency": "JPY" },
+{ "item": "C", "price": 45.76, "currency": "INVALID" },
+{ "item": null, "price": 4.76, "currency": "JPY" }]
